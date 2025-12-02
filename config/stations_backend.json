@@ -1,0 +1,16 @@
+{
+  "34_herald_sq_bdfm": {
+    "name": "34 St - Herald Sq",
+    "latitude": 40.749567,
+    "longitude": -73.98795,
+    "feeds": [
+      "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-bdfm"
+    ],
+    "lines": {
+      "B": { "uptown": ["D17N"], "downtown": ["D17S"] },
+      "D": { "uptown": ["D17N"], "downtown": ["D17S"] },
+      "F": { "uptown": ["D17N"], "downtown": ["D17S"] },
+      "M": { "uptown": ["D17N"], "downtown": ["D17S"] }
+    }
+  }
+}
